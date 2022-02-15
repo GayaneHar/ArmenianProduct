@@ -11,7 +11,7 @@ public class ArmenianProductSearchCapitalLettersTest extends ArmenianProductBase
 	@Test
 	public void searchButtonTest() {
 		System.out.println("Test Case ID search4");
-		System.out.println("Verify the search button is clickabled");
+		System.out.println("Verify capital letters are allowed in the search field");
 
 		ArmenianProductSearchCapitalLetters capitalLetters = new ArmenianProductSearchCapitalLetters(driver);
 

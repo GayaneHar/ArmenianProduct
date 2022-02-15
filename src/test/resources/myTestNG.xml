@@ -35,8 +35,10 @@
 			<class name="com.web365.search.test.ArmenianProductSearchLettersTest"/>
 			<class name="com.web365.search.test.ArmenianProductSearchButtonTest"/>
 		    <class name="com.web365.search.test.ArmenianProductSearchCapitalLettersTest"/>
-			
+			<class name="com.web365.search.test.ArmenianProductSearchLowercaseLettersTest"/>
+			<class name="com.web365.search.test.ArmenianProductSearchSpecialCharTest"/>
 			</classes>
+			
 			
 </test> <!-- Default test -->
 </suite> <!-- Default suite -->
