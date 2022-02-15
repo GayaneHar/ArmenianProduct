@@ -14,8 +14,9 @@ public class ArmenianProductLogTest extends ArmenianProductBaseTest {
 		System.out.println("Verify user is not allowed to login without filling in the UserName and Password fields");
 		ArmenianProductLoginPage loginPage = new ArmenianProductLoginPage(driver);
 		System.out.println("Navigate to https://armenianproduct.am/");
-		loginPage = loginPage.loginTest();
+		loginPage = loginPage.myAccountClick();
 		System.out.println("Step 1 Click on the 'My Account' button");
+		loginPage = loginPage.loginButtonClick();
 		System.out.println("Step 2 Click on the Login button in the popup");
 
 		Assert.assertTrue(loginPage.loginError.isDisplayed());

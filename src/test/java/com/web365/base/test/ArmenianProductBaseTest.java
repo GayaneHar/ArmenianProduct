@@ -6,7 +6,7 @@ import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
 
 public class ArmenianProductBaseTest {
-	
+
 	protected WebDriver driver;
 
 	@BeforeClass
@@ -21,6 +21,5 @@ public class ArmenianProductBaseTest {
 		driver.close();
 		driver.quit();
 	}
-
 
 }

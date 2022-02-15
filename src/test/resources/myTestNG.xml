@@ -8,6 +8,35 @@
 			<class name="com.web365.login.test.ArmenianProductInvalidPasswordTest"/>
 			<class name="com.web365.login.test.ArmenianProductValidCredentialsTest"/>
 			<class name="com.web365.fashion.test.ArmenianProductFashionSize12MTest"/>
-				</classes>
+			<class name="com.web365.fashion.test.ArmenianProductFashionSize18MTest"/> 
+		    <class name="com.web365.fashion.test.ArmenianProductFashionSize6MTest"/> 
+		    <class name="com.web365.fashion.test.ArmenianProductFashionSize24MTest"/> 
+			<class name="com.web365.fashion.test.ArmenianProductFashionSize3to4YTest"/>
+			<class name="com.web365.fashion.test.ArmenianProductFashionSize9MTest"/> 
+			<class name="com.web365.fashion.test.ArmenianProductFashionSize5to6YTest"/> 
+			<class name="com.web365.fashion.test.ArmenianProductFashionSize90x90Test"/> 
+			<class name="com.web365.fashion.test.ArmenianProductFashionListView2ButtonTest"/> 
+			<class name="com.web365.fashion.test.ArmenianProductMenButtonTest"/>  
+		    <class name="com.web365.fashion.test.ArmenianProductWomenButtonTest"/> 
+		    <class name="com.web365.fashion.test.ArmenianProductChildrenButtonTest"/> 
+		    <class name="com.web365.fashion.test.ArmenianProductFashionSize36to40Test"/> 
+			<class name="com.web365.fashion.test.ArmenianProductFashionSize3MTest"/> 
+			<class name="com.web365.fashion.test.ArmenianProductFashionSize4to5YTest"/> 
+		    <class name="com.web365.fashion.test.ArmenianProductFashionSize9to10YTest"/> 
+		    <class name="com.web365.fashion.test.ArmenianProductFashionSizeLTest"/>
+			<class name="com.web365.fashion.test.ArmenianProductFashionSizeSTest"/>
+			<class name="com.web365.fashion.test.ArmenianProductFashionSizeMTest"/>
+		    <class name="com.web365.fashion.test.ArmenianProductFashionSizeXLTest"/> 
+			<class name="com.web365.cart.test.ArmenianProductCartTest"/> 
+			<class name="com.web365.cart.test.ArmenianPraductAddToCartTest"/> 
+			<class name="com.web365.cart.test.ArmenianProductMultipleItemTest"/> 
+			<class name="com.web365.cart.test.ArmenianProductRemoveItemTest"/> 
+			<class name="com.web365.search.test.ArmenianProductSearchNumbersTest"/> 
+			<class name="com.web365.search.test.ArmenianProductSearchLettersTest"/>
+			<class name="com.web365.search.test.ArmenianProductSearchButtonTest"/>
+		    <class name="com.web365.search.test.ArmenianProductSearchCapitalLettersTest"/>
+			
+			</classes>
+			
 </test> <!-- Default test -->
 </suite> <!-- Default suite -->
