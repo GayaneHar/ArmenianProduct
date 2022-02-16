@@ -15,7 +15,6 @@
 			<artifactId>selenium-java</artifactId>
 			<version>4.1.1</version>
 		</dependency>
-		<!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-server -->
 		<dependency>
 			<groupId>org.seleniumhq.selenium</groupId>
 			<artifactId>selenium-server</artifactId>
